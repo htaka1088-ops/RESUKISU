@@ -1,0 +1,11 @@
+{
+  "android_version": "android13",
+  "kernel_version": "5.15",
+  "lts": "5.15.211",
+  "entries": [
+    {
+      "date": "lts",
+      "kernel": "5.15.211"
+    }
+  ]
+}
